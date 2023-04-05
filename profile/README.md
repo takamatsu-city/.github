@@ -4,6 +4,6 @@
 
 高松市のソフトウェアやオープンデータは、以下の場所で利用できます。
 
-- [高松市スマートマップ](https://geolonia.github.io/takamatsu-city-data-viewer/): 都市計画、ハザードマップ、施設情報等を閲覧できます
+- [高松市スマートマップ](https://maps.takamatsu-fact.com/): 都市計画、施設情報等を閲覧できます
 - [高松市 API ドキュメンテーション](https://docs.takamatsu-fact.com/): 高松市の地図API、データAPIの開発者向け利用マニュアルです
 - [高松市オープンデータ](https://opendata.takamatsu-fact.com/): 高松市のオープンデータに関する取り組みのポータルページです
